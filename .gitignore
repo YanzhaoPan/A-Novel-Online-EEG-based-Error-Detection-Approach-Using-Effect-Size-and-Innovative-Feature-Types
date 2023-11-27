@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Ignore specific data directories
+training_data/
+test_data/
+Model_stored/
+data4online_simulation/
+
+# Python cache and system files
+__pycache__/
+*.pyc
+
